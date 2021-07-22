@@ -1,6 +1,6 @@
 # GOGOCODE
 
-可能是全网最简单易上手，可读性最强的 AST 处理工具！nb!
+可能是全网最简单易上手QAQ，可读性最强的 AST 处理工具！nb!
 
 官网：https://gogocode.io
 
