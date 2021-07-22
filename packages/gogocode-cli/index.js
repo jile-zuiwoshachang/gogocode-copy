@@ -42,8 +42,4 @@ const transform = require('./src/commands/transform');
     program.parse(process.argv);
 
 
-
-
-    
-   
 })();
